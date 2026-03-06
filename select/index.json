@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "煩悩ゴーウェスト",
+  "base_artist": "パスピエ",
+  "createdAt": "2026-03-06T01:51:51.455719Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "煩悩ゴーウェスト",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/pl_01_煩悩ゴーウェスト_パスピエ.txt"
+    }
+  ]
+}
